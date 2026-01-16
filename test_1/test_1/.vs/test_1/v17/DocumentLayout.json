@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\a_qt_robot\\test_1\\test_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC16AFD0-5973-47E6-927B-CCBA95DAC24D}|Write_SharedPtr\\Write_SharedPtr.vcxproj|F:\\a_qt_robot\\test_1\\test_1\\Write_SharedPtr\\Write_SharedPtr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC16AFD0-5973-47E6-927B-CCBA95DAC24D}|Write_SharedPtr\\Write_SharedPtr.vcxproj|solutionrelative:Write_SharedPtr\\Write_SharedPtr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6639E-F094-4159-A7E9-3DD5EFBE530C}|Write_UniquePtr\\Write_UniquePtr.vcxproj|F:\\a_qt_robot\\test_1\\test_1\\Write_UniquePtr\\Write_UniquePtr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AAA6639E-F094-4159-A7E9-3DD5EFBE530C}|Write_UniquePtr\\Write_UniquePtr.vcxproj|solutionrelative:Write_UniquePtr\\Write_UniquePtr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA427C63-9B7E-488F-9C36-0CBEDD48811B}|shared_ptr_in_cpp\\shared_ptr_in_cpp.vcxproj|F:\\a_qt_robot\\test_1\\test_1\\shared_ptr_in_cpp\\shared_ptr_in_cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA427C63-9B7E-488F-9C36-0CBEDD48811B}|shared_ptr_in_cpp\\shared_ptr_in_cpp.vcxproj|solutionrelative:shared_ptr_in_cpp\\shared_ptr_in_cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06632A43-3897-4CC4-BBBF-C79E11856F96}|Shared_Ptr_in_Cpp.cpp\\Shared_Ptr_in_Cpp.cpp.vcxproj|F:\\a_qt_robot\\test_1\\test_1\\Shared_Ptr_in_Cpp.cpp\\unique_ptr_in_Cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06632A43-3897-4CC4-BBBF-C79E11856F96}|Shared_Ptr_in_Cpp.cpp\\Shared_Ptr_in_Cpp.cpp.vcxproj|solutionrelative:Shared_Ptr_in_Cpp.cpp\\unique_ptr_in_Cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFDBD44-0C34-4759-8E68-DA0483750106}|std_management_sys\\std_management_sys.vcxproj|F:\\a_qt_robot\\test_1\\test_1\\std_management_sys\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FAFDBD44-0C34-4759-8E68-DA0483750106}|std_management_sys\\std_management_sys.vcxproj|solutionrelative:std_management_sys\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088B1780-BAE7-421E-B40F-58D5F4E8AE41}|todolist_3\\todolist_3.vcxproj|F:\\a_qt_robot\\test_1\\test_1\\todolist_3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{088B1780-BAE7-421E-B40F-58D5F4E8AE41}|todolist_3\\todolist_3.vcxproj|solutionrelative:todolist_3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088B1780-BAE7-421E-B40F-58D5F4E8AE41}|todolist_3\\todolist_3.vcxproj|F:\\a_qt_robot\\test_1\\test_1\\todolist_3\\TodoList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{088B1780-BAE7-421E-B40F-58D5F4E8AE41}|todolist_3\\todolist_3.vcxproj|solutionrelative:todolist_3\\TodoList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088B1780-BAE7-421E-B40F-58D5F4E8AE41}|todolist_3\\todolist_3.vcxproj|F:\\a_qt_robot\\test_1\\test_1\\todolist_3\\TodoManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{088B1780-BAE7-421E-B40F-58D5F4E8AE41}|todolist_3\\todolist_3.vcxproj|solutionrelative:todolist_3\\TodoManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088B1780-BAE7-421E-B40F-58D5F4E8AE41}|todolist_3\\todolist_3.vcxproj|F:\\a_qt_robot\\test_1\\test_1\\todolist_3\\TodoList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{088B1780-BAE7-421E-B40F-58D5F4E8AE41}|todolist_3\\todolist_3.vcxproj|solutionrelative:todolist_3\\TodoList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE10623B-9784-4B44-BEDE-851270C7A6FC}|todolist_1\\todolist_1.vcxproj|F:\\a_qt_robot\\test_1\\test_1\\todolist_1\\todolist_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE10623B-9784-4B44-BEDE-851270C7A6FC}|todolist_1\\todolist_1.vcxproj|solutionrelative:todolist_1\\todolist_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEDC69F-C9AA-49F3-B782-067C1BDD146A}|todolist_2\\todolist_2.vcxproj|F:\\a_qt_robot\\test_1\\test_1\\todolist_2\\todolist_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAEDC69F-C9AA-49F3-B782-067C1BDD146A}|todolist_2\\todolist_2.vcxproj|solutionrelative:todolist_2\\todolist_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Write_SharedPtr.cpp",
+              "DocumentMoniker": "F:\\a_qt_robot\\test_1\\test_1\\Write_SharedPtr\\Write_SharedPtr.cpp",
+              "RelativeDocumentMoniker": "Write_SharedPtr\\Write_SharedPtr.cpp",
+              "ToolTip": "F:\\a_qt_robot\\test_1\\test_1\\Write_SharedPtr\\Write_SharedPtr.cpp",
+              "RelativeToolTip": "Write_SharedPtr\\Write_SharedPtr.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-27T14:06:15.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Write_UniquePtr.cpp",
+              "DocumentMoniker": "F:\\a_qt_robot\\test_1\\test_1\\Write_UniquePtr\\Write_UniquePtr.cpp",
+              "RelativeDocumentMoniker": "Write_UniquePtr\\Write_UniquePtr.cpp",
+              "ToolTip": "F:\\a_qt_robot\\test_1\\test_1\\Write_UniquePtr\\Write_UniquePtr.cpp",
+              "RelativeToolTip": "Write_UniquePtr\\Write_UniquePtr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-26T12:23:48.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shared_ptr_in_cpp.cpp",
+              "DocumentMoniker": "F:\\a_qt_robot\\test_1\\test_1\\shared_ptr_in_cpp\\shared_ptr_in_cpp.cpp",
+              "RelativeDocumentMoniker": "shared_ptr_in_cpp\\shared_ptr_in_cpp.cpp",
+              "ToolTip": "F:\\a_qt_robot\\test_1\\test_1\\shared_ptr_in_cpp\\shared_ptr_in_cpp.cpp",
+              "RelativeToolTip": "shared_ptr_in_cpp\\shared_ptr_in_cpp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-25T14:01:09.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "unique_ptr_in_Cpp.cpp",
+              "DocumentMoniker": "F:\\a_qt_robot\\test_1\\test_1\\Shared_Ptr_in_Cpp.cpp\\unique_ptr_in_Cpp.cpp",
+              "RelativeDocumentMoniker": "Shared_Ptr_in_Cpp.cpp\\unique_ptr_in_Cpp.cpp",
+              "ToolTip": "F:\\a_qt_robot\\test_1\\test_1\\Shared_Ptr_in_Cpp.cpp\\unique_ptr_in_Cpp.cpp",
+              "RelativeToolTip": "Shared_Ptr_in_Cpp.cpp\\unique_ptr_in_Cpp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-25T12:29:34.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoList.cpp",
+              "DocumentMoniker": "F:\\a_qt_robot\\test_1\\test_1\\todolist_3\\TodoList.cpp",
+              "RelativeDocumentMoniker": "todolist_3\\TodoList.cpp",
+              "ToolTip": "F:\\a_qt_robot\\test_1\\test_1\\todolist_3\\TodoList.cpp",
+              "RelativeToolTip": "todolist_3\\TodoList.cpp",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAawFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T12:13:30.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoList.h",
+              "DocumentMoniker": "F:\\a_qt_robot\\test_1\\test_1\\todolist_3\\TodoList.h",
+              "RelativeDocumentMoniker": "todolist_3\\TodoList.h",
+              "ToolTip": "F:\\a_qt_robot\\test_1\\test_1\\todolist_3\\TodoList.h",
+              "RelativeToolTip": "todolist_3\\TodoList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-23T12:12:43.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoManager.h",
+              "DocumentMoniker": "F:\\a_qt_robot\\test_1\\test_1\\todolist_3\\TodoManager.h",
+              "RelativeDocumentMoniker": "todolist_3\\TodoManager.h",
+              "ToolTip": "F:\\a_qt_robot\\test_1\\test_1\\todolist_3\\TodoManager.h",
+              "RelativeToolTip": "todolist_3\\TodoManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-23T12:06:09.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\a_qt_robot\\test_1\\test_1\\todolist_3\\main.cpp",
+              "RelativeDocumentMoniker": "todolist_3\\main.cpp",
+              "ToolTip": "F:\\a_qt_robot\\test_1\\test_1\\todolist_3\\main.cpp",
+              "RelativeToolTip": "todolist_3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T10:47:03.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "todolist_2.cpp",
+              "DocumentMoniker": "F:\\a_qt_robot\\test_1\\test_1\\todolist_2\\todolist_2.cpp",
+              "RelativeDocumentMoniker": "todolist_2\\todolist_2.cpp",
+              "ToolTip": "F:\\a_qt_robot\\test_1\\test_1\\todolist_2\\todolist_2.cpp",
+              "RelativeToolTip": "todolist_2\\todolist_2.cpp",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAFMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T08:51:59.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "todolist_1.cpp",
+              "DocumentMoniker": "F:\\a_qt_robot\\test_1\\test_1\\todolist_1\\todolist_1.cpp",
+              "RelativeDocumentMoniker": "todolist_1\\todolist_1.cpp",
+              "ToolTip": "F:\\a_qt_robot\\test_1\\test_1\\todolist_1\\todolist_1.cpp",
+              "RelativeToolTip": "todolist_1\\todolist_1.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAADEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T02:17:07.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\a_qt_robot\\test_1\\test_1\\std_management_sys\\main.cpp",
+              "RelativeDocumentMoniker": "std_management_sys\\main.cpp",
+              "ToolTip": "F:\\a_qt_robot\\test_1\\test_1\\std_management_sys\\main.cpp",
+              "RelativeToolTip": "std_management_sys\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-19T14:44:20.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

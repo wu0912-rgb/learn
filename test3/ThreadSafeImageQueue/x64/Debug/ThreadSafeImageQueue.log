@@ -1,0 +1,11 @@
+﻿  main.cpp
+F:\a_qt_robot\test3\ThreadSafeImageQueue\ThreadSafeImageQueue.h(136,9): warning C4984: "if constexpr" 是一种 C++17 语言扩展
+  (编译源文件“main.cpp”)
+      F:\a_qt_robot\test3\ThreadSafeImageQueue\ThreadSafeImageQueue.h(136,9):
+      模板实例化上下文(最早的实例化上下文)为
+          F:\a_qt_robot\test3\ThreadSafeImageQueue\ThreadSafeImageQueue.h(20,7):
+          在编译类模板“ThreadSafeImageQueue”时
+  
+  ThreadSafeImageQueue.vcxproj -> F:\a_qt_robot\test3\x64\Debug\ThreadSafeImageQueue.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

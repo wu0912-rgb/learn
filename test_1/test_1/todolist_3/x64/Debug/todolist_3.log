@@ -1,0 +1,8 @@
+﻿  main.cpp
+  TodoList.cpp
+  TodoManager.cpp
+F:\a_qt_robot\test_1\test_1\todolist_3\TodoList.cpp(124,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  todolist_3.vcxproj -> F:\a_qt_robot\test_1\test_1\x64\Debug\todolist_3.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
